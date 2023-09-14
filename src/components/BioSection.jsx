@@ -4,7 +4,7 @@ import ContactIcons from './ContactIcons.jsx'
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
-import { containerStyles, textStyles, myTheme } from './commonStyles.jsx';
+import { containerStyles, textStyles, myTheme } from './CommonStyles.jsx';
 import { ThemeProvider, } from '@mui/material/styles';
 
 function BioSection() {

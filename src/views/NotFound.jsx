@@ -2,7 +2,7 @@ import React from 'react';
 import CustomNavbar from '../components/CustomNavbar.jsx'
 import Typography from '@mui/material/Typography';
 import '../App.css'
-import { containerStyles } from '../components/commonStyles.jsx';
+import { containerStyles } from '../components/CommonStyles.jsx';
 
 import Grid from '@mui/material/Grid';
 function NotFound() {
