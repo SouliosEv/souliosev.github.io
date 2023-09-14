@@ -1,0 +1,12 @@
+.fullscreen-main {
+    margin: 0 auto;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: auto;
+    /* Optionally, you can set other styles like background color, padding, etc. */
+    background-color: #faedcd;
+}
+
+.navbar {
+    background-color: #344e41;
+}
